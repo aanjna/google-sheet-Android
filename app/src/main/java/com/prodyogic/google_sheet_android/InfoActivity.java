@@ -14,7 +14,6 @@ public class InfoActivity extends AppCompatActivity {
     private RadioButton radioButtonGender;
     private Button buttonEnterData2;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
