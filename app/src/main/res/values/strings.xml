@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">myapi</string>
+    <string name="signed_out">Signed out</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="signed_in_fmt">Welcome: %s</string>
+    <string name="connections_fmt">Connections: %1$s</string>
+    <string name="msg_contacts_failed">Get contacts failed.</string>
+    <string name="loading">Loading…</string>
+    <string name="server_client_id">108037651968-6o2fmkkeruicfv2n1if1pp8op1rgljej.apps.googleusercontent.com</string>
+
+</resources>

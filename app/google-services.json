@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "219810448273",
+    "project_id": "tridosha-154920"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219810448273:android:27d689d63f1b7a06",
+        "android_client_info": {
+          "package_name": "com.google.samples.quickstart.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219810448273-5remmhbclg11nlncju2val2n93dkhhiv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.samples.quickstart.signin",
+            "certificate_hash": "BBE976BA8C8ABE45FDC666F8DD22678522C50C0A"
+          }
+        },
+        {
+          "client_id": "219810448273-hgvgjh9t73naen553v7tfn7s0o4cg6g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVmMI_DS_zhx2qo4FPc2aGxxz9hZW0gOY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
