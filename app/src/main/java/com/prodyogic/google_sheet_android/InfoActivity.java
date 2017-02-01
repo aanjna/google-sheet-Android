@@ -29,7 +29,7 @@ public class InfoActivity extends AppCompatActivity {
         groupGender = (RadioGroup) findViewById(R.id.groupGender);
         buttonEnterData2 = (Button) findViewById(R.id.buttonEnterData2);
 
-        final String email = getIntent().getStringExtra("eSalary");
+        final String email = getIntent().getStringExtra("email");
 
         buttonEnterData2.setOnClickListener(new View.OnClickListener() {
             @Override
